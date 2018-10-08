@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Class-Path: commons-logging-1.2.jar spring-beans-4.3.12.RELEASE.jar sp
+ ring-context-4.3.12.RELEASE.jar spring-tx-4.3.12.RELEASE.jar c3p0-0.9
+ .1.2.jar spring-expression-4.3.12.RELEASE.jar aspectjweaver-1.8.9.jar
+  spring-aspects-4.3.12.RELEASE.jar spring-core-4.3.12.RELEASE.jar spr
+ ing-aop-4.3.12.RELEASE.jar servlet-api-2.3.jar spring-web-4.3.12.RELE
+ ASE.jar spring-webmvc-4.3.12.RELEASE.jar spring-jdbc-4.3.12.RELEASE.j
+ ar mysql-connector-java-5.1.44.jar
+Main-Class: 
+
